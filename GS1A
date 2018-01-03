@@ -1,0 +1,658 @@
+#OTU	sampleN	modifiedConsensusLineage
+I89GC4301B4XW7	23	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;DQ811856_g;4P000759_s;;4P000759
+I89GC4301BEXQB	1	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;AM110988_g;4P000948_s;;4P000948
+I89GC4301DIUQQ	2	Bacteria;;;OP3;;HM243796_c;;HM243796_o;;AB015559_f;;AB015559_g;4P001076_s;;4P001076
+I89GC4301CO424	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;FJ628325_g;4P001404_s;;4P001404
+I89GC4301DKJQF	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;FJ479444_f;;4P001540_g;4P001540_s;;4P001540
+I89GC4301AID3K	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Sandaracinaceae;;JF344203_g;4P001652_s;;4P001652
+I89GC4301ARWT4	6	Bacteria;;;Actinobacteria;;Acidimicrobiia;;Acidimicrobiales;;AM991247_f;;AM991247_g;4P001935_s;;4P001935
+I89GC4301ALH6E	7	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;4P001481_o;;4P001481_f;;4P001956_g;4P001956_s;;4P001956
+I89GC4301AVQ58	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Parvibaculum_f;;4P001958_g;4P001958_s;;4P001958
+I89GC4301AQOKQ	18	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Sandaracinaceae;;JF344203_g;4P002648_s;;4P002648
+I89GC4301ATZ8D	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Sandaracinaceae;;JF344203_g;4P002676_s;;4P002676
+I89GC4301BWFYX	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;4P002702_s;;4P002702
+I89GC4301BRKUY	1	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;AM110988_g;4P002731_s;;4P002731
+I89GC4301AH2BP	3	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;EU246070_f;;EU246070_g;4P002739_s;;4P002739
+I89GC4301DQ2SW	1	Bacteria;;;Gemmatimonadetes;;Gemmatimonadetes_c;;Gemmatimonadales;;EU881211_f;;EU881211_g;4P002772_s;;4P002772
+I89GC4301CO5SW	1	Bacteria;;;TM7;;TM7_c;;JF421159_o;;EU328026_f;;4P002782_g;4P002782_s;;4P002782
+I89GC4301BLWFY	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Prosthecomicrobium_f;;CU921531_g;4P002956_s;;4P002956
+I89GC4301DP8JT	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;4P003070_s;;4P003070
+I89GC4301A19OC	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;4P003290_s;;4P003290
+I89GC4301B0G8T	2	Bacteria;;;Chloroflexi;;Caldilineae;;Caldilineales;;AB300116_f;;AB300116_g;4P003557_s;;4P003557
+I89GC4301ALMWO	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;EF573277_o;;EF573277_f;;EU287155_g;4P003918_s;;4P003918
+I89GC4301CMXDL	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;4P003940_s;;4P003940
+I89GC4301DCUZR	1	Bacteria;;;GQ246394_p;;GQ246394_c;;GQ246394_o;;GQ246394_f;;4P001421_g;4P003978_s;;4P003978
+I89GC4301ABF2R	2	Bacteria;;;Gemmatimonadetes;;GU568020_c;;EU374070_o;;EU374070_f;;EU374070_g;4P004047_s;;4P004047
+I89GC4301A913R	2	Bacteria;;;Planctomycetes;;Phycisphaerae;;Phycisphaerales;;Phycisphaeraceae;;HM446087_g;4P004385_s;;4P004385
+I89GC4301AZGSV	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;FM253572_o;;FM253572_f;;FJ478897_g;4P004436_s;;4P004436
+I89GC4301CYHMB	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;EU385821_f;;AM086136_g;4P004453_s;;4P004453
+I89GC4301BN7TZ	1	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Brumimicrobiaceae;;Crocinitomix;4P004614_s;;4P004614
+I89GC4301BB4AX	1	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;Thermodesulfovibrio_f;;FR667834_g;4P004646_s;;4P004646
+I89GC4301DIH2R	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;Dehalococcoidaceae;;EU487877_g;4P004679_s;;4P004679
+I89GC4301BUEOF	1	Bacteria;;;TM6;;TM6_c;;TM6_o;;EU038003_f;;AB257652_g;4P004701_s;;4P004701
+I89GC4301BMYGU	8	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;4P004969_s;;4P004969
+I89GC4301BTSK4	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;4P006111_s;;4P006111
+I89GC4301C2OSE	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;AB013829_s;;AB013829
+I89GC4301DJKXQ	2	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Hyphomicrobiaceae;;Methyloligella;AB015245_s;;AB015245
+I89GC4301C7HXI	19	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;AB015556_s;;AB015556
+I89GC4301AM4Z9	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Nitrospinaceae_o;;Nitrospinaceae;;AB015560_g;AB015560_s;;AB015560
+I89GC4301AFAGP	2	Bacteria;;;OD1;;OD1_c;;OD1_o;;AB015577_f;;AB015577_g;AB015577_s;;AB015577
+I89GC4301BOIP3	1	Bacteria;;;OD1;;OD1_c;;OD1_o;;AB193900_f;;AB193900_g;AB015580_s;;AB015580
+I89GC4301AILF3	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Paenibacillaceae;;Paenibacillus;Paenibacillus glucanolyticus;;DSM 5162-AB073189(T)
+I89GC4301CSLS7	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Afifella_f;;Afifella;Rhodopseudomonas julia;;DSM 11549-AB087720(T)
+I89GC4301B05U4	3	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Alteromonadales;;Marinobacter_f;;Marinobacter;AB089803_s;;AB089803
+I89GC4301AZ0F6	1	Bacteria;;;Chlorobi;;Ignavibacteriae;;Ignavibacteriales;;Ignavibacteriaceae;;AB099985_g;AB099985_s;;AB099985
+I89GC4301DIGOH	146	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Vibrionales;;Vibrionaceae;;Photobacterium;Photobacterium indicum;;NBRC 14233-AB159513(T)
+I89GC4301DLJO7	7	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;AY771942_f;;AY771942_g;AB177130_s;;AB177130
+I89GC4301CFDSC	1	Bacteria;;;Planctomycetes;;Brocadia_c;;EU290720_o;;DQ521803_f;;DQ521803_g;AB177205_s;;AB177205
+I89GC4301CSI6C	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;EU246070_f;;EU246070_g;AB177212_s;;AB177212
+I89GC4301DMOOP	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Paracoccus;Paracoccus marinus;;KKL-A5-AB185957(T)
+I89GC4301ARJOH	30	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Hyphomicrobiaceae;;Methyloligella;AB240235_s;;AB240235
+I89GC4301BLMAD	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;Anaerolinaceae;;GQ500701_g;AB240345_s;;AB240345
+I89GC4301C41H8	1	Bacteria;;;Chloroflexi;;Anaerolineae;;FJ517056_o;;FJ517056_f;;EF061968_g;AB300071_s;;AB300071
+I89GC4301DQIXU	9	Bacteria;;;Chloroflexi;;Caldilineae;;Caldilineales;;AB300116_f;;AB300116_g;AB300116_s;;AB300116
+I89GC4301ASF81	1	Bacteria;;;OP11;;HQ183952_c;;EU386083_o;;AB300121_f;;AB300121_g;AB300121_s;;AB300121
+I89GC4301A27P0	8	Bacteria;;;DQ394940_p;;DQ394940_c;;DQ394940_o;;DQ394940_f;;DQ394940_g;AB300129_s;;AB300129
+I89GC4301AEQ0O	516	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Oceanospirillaceae;;Amphritea;Amphritea japonica;;JAMM 1866-AB330881(T)
+I89GC4301CTW3V	19	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Oceanospirillaceae;;Amphritea;Amphritea balenae;;JAMM 1525-AB330883(T)
+I89GC4301AOJQT	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;AB364849_s;;AB364849
+I89GC4301AXK9G	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Thiohalophilus_f;;Thioprofundum;Thioprofundum lithotrophicum;;108-AB468957(T)
+I89GC4301C3GRB	8	Bacteria;;;UT06;;UT06_c;;UT06_o;;AF323761_f;;EU385684_g;AB525463_s;;AB525463
+I89GC4301BLOFF	3	Bacteria;;;JS1;;JS1_c;;JS1_o;;JS1_f;;JS1_g;AB525475_s;;AB525475
+I89GC4301B1PHP	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobulbaceae_o;;EU287221_f;;EU287221_g;AB530214_s;;AB530214
+I89GC4301AFYW6	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Sandaracinaceae;;JF344203_g;AB530225_s;;AB530225
+I89GC4301CU4BD	1	Bacteria;;;Planctomycetes;;FN820300_c;;FN820300_o;;FN820300_f;;FN820300_g;AB530245_s;;AB530245
+I89GC4301ATK1L	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;AB533934_s;;AB533934
+I89GC4301AYJQP	1	Bacteria;;;TM6;;TM6_c;;TM6_o;;AY661981_f;;AY661981_g;AB630668_s;;AB630668
+I89GC4301C3OAW	3	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g26;AB637105_s;;AB637105
+I89GC4301DGLRV	4	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;AB695960_s;;AB695960
+I89GC4301AX5IJ	4	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g26;AB696573_s;;AB696573
+I89GC4301DBIJ3	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g12;Bacillus selenitireducens;;MLS10-ABHZ01000019(T)
+I89GC4301BUG92	5	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Sulfitobacter;Oceanibulbus indolifex;;HEL-45-ABID01000006(T)
+I89GC4301A89V7	2	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;Bacillus cereus;;ATCC 14579-AE016877(T)
+I89GC4301AXSMD	3	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Thiotrichales;;Beggiatoaceae;;Marithioploca;Marithioploca araucae;;AF035956
+I89GC4301CJR2B	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;AF154100_g;AF154104_s;;AF154104
+I89GC4301BFIGB	2	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Puniceibacterium;AF170751_s;;AF170751
+I89GC4301CTBSX	1	Bacteria;;;GQ246394_p;;GQ246394_c;;GQ246394_o;;AM490697_f;;AM490697_g;AF254404_s;;AF254404
+I89GC4301A8JBI	4	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;AF269002_o;;AF269002_f;;AF269002_g;AF269002_s;;AF269002
+I89GC4301BKM8R	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;EU617842_g;AF317771_s;;AF317771
+I89GC4301APMTE	1	Bacteria;;;UT06;;UT06_c;;UT06_o;;AF323761_f;;AF323761_g;AF323761_s;;AF323761
+I89GC4301A1Y0S	232	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Alcanivoracaceae;;Alcanivorax;Alcanivorax venustensis;;ISO4-AF328762(T)
+I89GC4301DMUR3	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;Anaerolinaceae;;Pelolinea;AF419689_s;;AF419689
+I89GC4301BDN7L	9	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Roseovarius;AF468352_s;;AF468352
+I89GC4301AVI5J	107	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Planococcaceae;;Jeotgalibacillus;Jeotgalibacillus marinus;;DSM 1297-AJ237708(T)
+I89GC4301CA0EW	32	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Planococcaceae;;Paenisporosarcina;Paenisporosarcina macmurdoensis;;CMS 21w-AJ514408(T)
+I89GC4301BZWDF	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;Bacillus soli;;LMG 21838-AJ542513(T)
+I89GC4301A5AN6	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodospirillales;;EU799183_f;;EU799183_g;AJ567552_s;;AJ567552
+I89GC4301A5SKY	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Acidiferrobacter_f;;EU491360_g;AJ567603_s;;AJ567603
+I89GC4301AGZD9	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;DQ906757_o;;DQ906757_f;;DQ906757_g;sym_Olavius_algarvensis_s;;AJ620496
+I89GC4301AU7TX	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobulbaceae_o;;Desulforhopalus_f;;Desulfofustis;AJ620509_s;;AJ620509
+I89GC4301AE74L	4	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;AJ704718_s;;AJ704718
+I89GC4301C5FA2	2	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HM066343_f;;FJ205216_g;AJ966584_s;;AJ966584
+I89GC4301CFIWQ	3	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;AM040131_s;;AM040131
+I89GC4301AZNR2	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Oceanospirillaceae;;Amphritea;Amphritea atlantica;;M41-AM156910(T)
+I89GC4301AJ2UX	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Halomonadaceae;;Salinicola;Salinicola salarius;;M27-AM229316(T)
+I89GC4301CBJ62	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Paracoccus;AM275338_s;;AM275338
+I89GC4301AVGBE	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;AM745130_g;AM745130_s;;AM745130
+I89GC4301BEVB1	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;AM745142_s;;AM745142
+I89GC4301AE9WN	6	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;AM745150_g;AM745150_s;;AM745150
+I89GC4301C3SZ6	1	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;AM889144_s;;AM889144
+I89GC4301BJTHZ	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Ruegeria;Ruegeria scottomollicae;;LMG 24367-AM905330(T)
+I89GC4301A8X9Y	2	Bacteria;;;Firmicutes;;Clostridia;;Thermoanaerobacterales;;DQ346486_f;;AM930302_g;AM930302_s;;AM930302
+I89GC4301BCAYS	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Tropicibacter;AM930434_s;;AM930434
+I89GC4301BEY6E	1	Bacteria;;;Actinobacteria;;Acidimicrobiia;;Acidimicrobiales;;AM991247_f;;AM991247_g;AM936587_s;;AM936587
+I89GC4301BP87Q	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g26;AM950305_s;;AM950305
+I89GC4301DBVY8	1	Bacteria;;;OP3;;FP245540_c;;FP245538_o;;FP245538_f;;AJ224540_g;AM997403_s;;AM997403
+I89GC4301BHQUS	2	Bacteria;;;GN02;;GN02_c;;FJ205371_o;;FJ205371_f;;FJ205371_g;AM997561_s;;AM997561
+I89GC4301BNW1B	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EF574244_o;;EU799406_f;;EU799406_g;AM997597_s;;AM997597
+I89GC4301ATSQ5	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;HQ845450_g;AM997688_s;;AM997688
+I89GC4301DMIA5	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Nitrospinaceae_o;;Nitrospinaceae;;AB015560_g;AM997732_s;;AM997732
+I89GC4301CRBA4	1	Bacteria;;;Firmicutes;;Clostridia;;Halanaerobiales;;Halobacteroidaceae;;Orenia;Orenia marismortui;;DSM 5156-AQZS01000007(T)
+I89GC4301BHUIL	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Phaeobacter;Phaeobacter arcticus;;DSM 23566-AXBF01000003(T)
+I89GC4301B1L2S	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Leisingera;Leisingera nanhaiensis;;DSM 24252-AXBG01000021(T)
+I89GC4301ANCUG	1	Bacteria;;;Actinobacteria;;Acidimicrobiia;;Acidimicrobiales;;Ilumatobacter_f;;AY093455_g;AY093455_s;;AY093455
+I89GC4301AL9R3	4	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GQ259278_f;;DQ394968_g;AY093456_s;;AY093456
+I89GC4301C37XC	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Virgibacillus;Virgibacillus kekensis;;YIM-kkny16-AY121439(T)
+I89GC4301AU6H5	260	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Sulfitobacter;Sulfitobacter dubius;;KMM 3554-AY180102(T)
+I89GC4301AJ6VM	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Planococcaceae;;Jeotgalibacillus;Jeotgalibacillus campisalis;;SF-57-AY190535(T)
+I89GC4301AM4O2	1	Bacteria;;;Acidobacteria;;EU686603_c;;EU686603_o;;HM445331_f;;HM445331_g;AY225640_s;;AY225640
+I89GC4301CM5B4	7	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EU491467_g;AY225652_s;;AY225652
+I89GC4301BH66M	3	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;AY258094_g;AY258094_s;;AY258094
+I89GC4301BTYNG	8	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Ectothiorhodospiraceae;;Ectothiorhodosinus;Ectothiorhodosinus mongolicus;;M9-AY298904(T)
+I89GC4301DNF93	2	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;AY345433_g;AY345433_s;;AY345433
+I89GC4301CPI5D	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;FM253643_f;;EU491845_g;AY375087_s;;AY375087
+I89GC4301BK0DO	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;DQ394930_g;AY536221_s;;AY536221
+I89GC4301BL52V	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Vibrionales;;Vibrionaceae;;Photobacterium;Photobacterium frigidiphilum;;SL13-AY538749(T)
+I89GC4301AAQAV	17	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Vibrionales;;Vibrionaceae;;Photobacterium;Photobacterium lipolyticum;;M37-AY554009(T)
+I89GC4301A1SAC	916	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;Salegentibacter;Salegentibacter mishustinae;;KMM 6049-AY576653(T)
+I89GC4301DE7N2	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Nitrospinaceae_o;;DQ404777_f;;AB530226_g;AY592130_s;;AY592130
+I89GC4301BYG9O	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374093_f;;EU374093_g;AY592134_s;;AY592134
+I89GC4301BTKQM	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374093_f;;EU374093_g;AY592138_s;;AY592138
+I89GC4301ABN91	1	Bacteria;;;WS3;;GU302492_c;;AM991194_o;;EU881351_f;;EU881351_g;AY592156_s;;AY592156
+I89GC4301B846J	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;EU385821_f;;EU385821_g;AY704394_s;;AY704394
+I89GC4301DME0S	3	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;AY704402_s;;AY704402
+I89GC4301CMVID	6	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;AM745130_g;AY771936_s;;AY771936
+I89GC4301BI85C	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;AY869670_s;;AY869670
+I89GC4301CEQ5Y	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;AY869672_s;;AY869672
+I89GC4301BY6MM	1	Bacteria;;;Firmicutes;;Clostridia;;Clostridiales;;Clostridiaceae;;Clostridium;Clostridium ganghwense;;HY-42-06-AY903294(T)
+I89GC4301C9UI3	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Jannaschia;Jannaschia seosinensis;;CL-SP26-AY906862(T)
+I89GC4301AEC8F	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Ectothiorhodospiraceae;;Thioalkalivibrio;Thioalkalivibrio sulfidiphilus;;HL-EbGR7-CP001339(T)
+I89GC4301A3B4R	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Leisingera;Leisingera methylohalidivorans;;DSM 14336-CP006773(T)
+I89GC4301CC4LL	1	Bacteria;;;Cyanobacteria;;Chroobacteria;;Chroococcales;;Prochlorococcaceae;;Prochlorococcus;CT978603_s;;CT978603
+I89GC4301B18FG	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g26;Bacillus okhensis;;Kh10-101-DQ026060(T)
+I89GC4301CR4ZS	1	Bacteria;;;Planctomycetes;;AY532588_c;;AY532588_o;;AM056027_f;;EU478641_g;DQ070801_s;;DQ070801
+I89GC4301CDZSU	1	Bacteria;;;GN02;;GN02_c;;AJ224539_o;;EU246208_f;;DQ154851_g;DQ154851_s;;DQ154851
+I89GC4301CM0QE	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;FJ416121_g;DQ289896_s;;DQ289896
+I89GC4301CN43T	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374100_g;DQ289907_s;;DQ289907
+I89GC4301AZGIE	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EU488043_g;DQ289931_s;;DQ289931
+I89GC4301CAAXE	1	Bacteria;;;Actinobacteria;;Acidimicrobiia;;Acidimicrobiales;;Iamiaceae;;EF018137_g;DQ298352_s;;DQ298352
+I89GC4301CQXOA	1376	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Planococcaceae;;Paenisporosarcina;Paenisporosarcina quisquiliarum;;SK 55-DQ333897(T)
+I89GC4301AUYQX	3	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Anderseniella_f;;Anderseniella;DQ351777_s;;DQ351777
+I89GC4301B361K	4	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;DQ394925_s;;DQ394925
+I89GC4301CX0UI	6	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;DQ394934_s;;DQ394934
+I89GC4301AOCWH	3	Bacteria;;;DQ394940_p;;DQ394940_c;;DQ394940_o;;DQ394940_f;;DQ394940_g;DQ394940_s;;DQ394940
+I89GC4301BB5MA	1	Bacteria;;;Chloroflexi;;Caldilineae;;FM253648_o;;DQ394955_f;;DQ394955_g;DQ394955_s;;DQ394955
+I89GC4301AE8ZS	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;AB530223_o;;AB530223_f;;FJ748770_g;DQ394958_s;;DQ394958
+I89GC4301BN2RL	1	Bacteria;;;Chloroflexi;;Caldilineae;;DQ394964_o;;DQ394964_f;;DQ394964_g;DQ394964_s;;DQ394964
+I89GC4301C00BM	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GQ259278_f;;DQ394968_g;DQ394968_s;;DQ394968
+I89GC4301DOOLP	3	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;DQ395014_g;DQ395014_s;;DQ395014
+I89GC4301AUVFP	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Nitrospinaceae_o;;DQ404777_f;;AB530226_g;DQ395023_s;;DQ395023
+I89GC4301A1W56	5	Bacteria;;;Acidobacteria;;HM243779_c;;AM997925_o;;AM997925_f;;HQ190557_g;DQ395034_s;;DQ395034
+I89GC4301C5D19	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;DQ395050_s;;DQ395050
+I89GC4301BWUFO	3	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;GU455152_f;;FN820298_g;DQ395058_s;;DQ395058
+I89GC4301CAP0R	2	Bacteria;;;Acidobacteria;;Z95718_c;;Z95718_o;;DQ395349_f;;DQ395349_g;DQ395349_s;;DQ395349
+I89GC4301CQM4K	2	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;DQ395358_s;;DQ395358
+I89GC4301BH8S3	7	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;DQ395394_g;DQ395394_s;;DQ395394
+I89GC4301BDILO	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;DQ395418_g;DQ395418_s;;DQ395418
+I89GC4301B337N	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;DQ395499_g;DQ395499_s;;DQ395499
+I89GC4301BFZVZ	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;DQ395503_g;DQ395503_s;;DQ395503
+I89GC4301C1YNQ	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;DQ396265_g;DQ396265_s;;DQ396265
+I89GC4301BZBNS	1	Bacteria;;;OP11;;DQ404773_c;;DQ404773_o;;DQ404629_f;;DQ404629_g;DQ404629_s;;DQ404629
+I89GC4301A1AHD	2	Bacteria;;;WS3;;GU302492_c;;AM991194_o;;AM991194_f;;DQ431883_g;DQ431883_s;;DQ431883
+I89GC4301AWXPC	2	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;DQ431884_s;;DQ431884
+I89GC4301BCL96	1	Bacteria;;;Firmicutes;;Erysipelotrichi;;Turicibacter_o;;Turicibacter_f;;Haloplasma;DQ431898_s;;DQ431898
+I89GC4301COCGR	2	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;DQ448745_s;;DQ448745
+I89GC4301C6V4I	1	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;Thermodesulfovibrio_f;;FR667834_g;DQ450809_s;;DQ450809
+I89GC4301CDZ8K	4	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;JF344499_g;DQ513027_s;;DQ513027
+I89GC4301BSOGJ	1	Bacteria;;;Actinobacteria;;DQ513070_c;;DQ513070_o;;DQ513070_f;;DQ513070_g;DQ513070_s;;DQ513070
+I89GC4301A4JQK	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;DQ811838_s;;DQ811838
+I89GC4301AMUDZ	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;DQ811856_g;DQ811857_s;;DQ811857
+I89GC4301CAHKQ	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;DQ811858_g;DQ811858_s;;DQ811858
+I89GC4301AFZU1	2	Bacteria;;;Chloroflexi;;Caldilineae;;DQ394964_o;;DQ394964_f;;DQ394964_g;DQ811867_s;;DQ811867
+I89GC4301DAG9H	2	Bacteria;;;Chloroflexi;;Caldilineae;;Caldilineales;;DQ811868_f;;DQ811868_g;DQ811868_s;;DQ811868
+I89GC4301B5KIU	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;DQ811872_s;;DQ811872
+I89GC4301B2OIE	2	Bacteria;;;Chloroflexi;;Anaerolineae;;EU245204_o;;EU245204_f;;EU245228_g;DQ811873_s;;DQ811873
+I89GC4301BPELH	1	Bacteria;;;Chloroflexi;;Caldilineae;;DQ394964_o;;DQ394964_f;;DQ394964_g;DQ811874_s;;DQ811874
+I89GC4301AR35C	1	Bacteria;;;Chloroflexi;;Caldilineae;;DQ394964_o;;DQ811885_f;;DQ811885_g;DQ811885_s;;DQ811885
+I89GC4301C2D4T	1	Bacteria;;;Acidobacteria;;EU700145_c;;EU700145_o;;EU700145_f;;EU700145_g;DQ811917_s;;DQ811917
+I89GC4301DOS0I	1	Bacteria;;;Caldithrix_p;;Caldithrix_c;;Caldithrix_o;;Caldithrix_f;;DQ811936_g;DQ811936_s;;DQ811936
+I89GC4301BB6S5	1	Bacteria;;;OP11;;AF050605_c;;AF050605_o;;DQ811944_f;;DQ811943_g;DQ811943_s;;DQ811943
+I89GC4301A88AR	2	Bacteria;;;TM6;;TM6_c;;TM6_o;;JF344625_f;;JF344625_g;DQ811946_s;;DQ811946
+I89GC4301AVI5Y	1	Bacteria;;;WS3;;GU302492_c;;DQ811952_o;;DQ811952_f;;DQ811952_g;DQ811950_s;;DQ811950
+I89GC4301A8ONR	2	Bacteria;;;UT06;;AM712334_c;;DQ811951_o;;DQ811951_f;;DQ811951_g;DQ811951_s;;DQ811951
+I89GC4301CDQBT	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;AF269002_o;;AF269002_f;;DQ395022_g;DQ917833_s;;DQ917833
+I89GC4301BVTX4	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Phaeobacter;Phaeobacter daeponensis;;TF-218-DQ981486(T)
+I89GC4301DOWQ5	1	Bacteria;;;Cyanobacteria;;JF737898_c;;GU174155_o;;EF018810_f;;EF018810_g;EF018810_s;;EF018810
+I89GC4301C9MTS	3	Bacteria;;;Firmicutes;;Clostridia;;Clostridiales;;Thermohalobacter_f;;Clostridiisalibacter;Clostridiisalibacter paucivorans;;37HS60-EF026082(T)
+I89GC4301C6WBM	1	Bacteria;;;Chloroflexi;;Caldilineae;;DQ394964_o;;DQ394964_f;;DQ394964_g;EF061967_s;;EF061967
+I89GC4301ATK7H	11	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;DQ811856_g;EF061969_s;;EF061969
+I89GC4301CWYXO	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Micavibrio_o;;Micavibrio_f;;DQ395494_g;EF092222_s;;EF092222
+I89GC4301CQMYH	4	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Nitrospinaceae_o;;DQ404777_f;;AB530226_g;EF125383_s;;EF125383
+I89GC4301C7Z6N	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;EU734940_g;EF125403_s;;EF125403
+I89GC4301BMB5C	5	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Syntrophobacterales;;GQ246357_f;;GQ246357_g;EF125417_s;;EF125417
+I89GC4301ADG94	6	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;HM243977_o;;DQ811827_f;;DQ811827_g;EF125419_s;;EF125419
+I89GC4301DO4SU	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterium_g1_o;;Desulfobacterium_g1_f;;Desulfobacterium_g1;EF125430_s;;EF125430
+I89GC4301C2NUZ	2	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EF125439_g;EF125439_s;;EF125439
+I89GC4301A92P2	1	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;JF344531_f;;JF344531_g;EF125450_s;;EF125450
+I89GC4301APVU0	24	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Planococcaceae;;Paenisporosarcina;Paenisporosarcina antarctica;;N-05-EF154512(T)
+I89GC4301CH8QC	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Pelagicola;Pelagicola litoralis;;CL-ES2-EF192392(T)
+I89GC4301B64OU	9	Bacteria;;;Chloroflexi;;Caldilineae;;DQ394964_o;;DQ394964_f;;DQ394964_g;EF208698_s;;EF208698
+I89GC4301CNXAR	1	Bacteria;;;Chloroflexi;;Caldilineae;;Caldilineales;;EF208701_f;;EF208701_g;EF208701_s;;EF208701
+I89GC4301C2KXQ	2	Bacteria;;;Acidobacteria;;EU700145_c;;EU700145_o;;EU700145_f;;EU700145_g;EF208702_s;;EF208702
+I89GC4301CORSA	1	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;Thermoanaerobaculum_f;;DQ395019_g;EF208710_s;;EF208710
+I89GC4301DBF2Q	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EF208715_g;EF208715_s;;EF208715
+I89GC4301B8BYC	2	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;Salegentibacter;Salegentibacter salarius;;ISL-6-EF486353(T)
+I89GC4301A2VZY	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;Dehalococcoidaceae;;EF559225_g;EF559225_s;;EF559225
+I89GC4301AVBC5	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EF591886_g;EF591886_s;;EF591886
+I89GC4301BB4J8	64	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;M90415_o;;AY532574_f;;AY532574_g;EF654696_s;;EF654696
+I89GC4301CXI54	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Legionellales;;Coxiellaceae;;EF659421_g;EF659421_s;;EF659421
+I89GC4301AL466	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Nitrospinaceae_o;;EU491271_f;;EU035900_g;EU035900_s;;EU035900
+I89GC4301DRYGN	1	Bacteria;;;Lentisphaerae;;GU196224_c;;GQ259262_o;;GQ259262_f;;EU048628_g;EU048628_s;;EU048628
+I89GC4301A62A4	1	Bacteria;;;Spirochaetes;;Spirochaetes_c;;Spirochaetales;;Spirochaetaceae;;FJ748821_g;EU048676_s;;EU048676
+I89GC4301BSLND	2	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;EU048679_s;;EU048679
+I89GC4301AGRTE	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;EU246070_f;;EU246070_g;EU048688_s;;EU048688
+I89GC4301ANS3I	1	Bacteria;;;Actinobacteria;;Rubrobacteria;;AB240334_o;;AB240334_f;;AB240334_g;EU132850_s;;EU132850
+I89GC4301CNR8A	2	Bacteria;;;WS3;;GU302492_c;;AM991194_o;;EU135571_f;;EU135571_g;EU135571_s;;EU135571
+I89GC4301CTIHD	2	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Jannaschia;Jannaschia seohaensis;;SMK-146-EU156067(T)
+I89GC4301BHNP2	15	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Anaerobacillus;EU180994_s;;EU180994
+I89GC4301AUAET	9	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;EU181467_g;EU181467_s;;EU181467
+I89GC4301B53X7	1	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;EU181473_s;;EU181473
+I89GC4301BGQ7O	6	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;EU181490_s;;EU181490
+I89GC4301DLVFP	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU246214_o;;EU246214_f;;EU246214_g;EU246214_s;;EU246214
+I89GC4301AG7PP	1	Bacteria;;;Caldithrix_p;;Caldithrix_c;;Caldithrix_o;;Caldithrix_f;;DQ811935_g;EU246241_s;;EU246241
+I89GC4301DP31A	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Legionellales;;Coxiellaceae;;Coxiella;EU249944_s;;EU249944
+I89GC4301AZN2Z	2	Bacteria;;;Actinobacteria;;DQ513070_c;;DQ513070_o;;DQ513070_f;;EU266850_g;EU266850_s;;EU266850
+I89GC4301C15YT	1	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;JF344531_f;;JF344531_g;EU287099_s;;EU287099
+I89GC4301CPK9E	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Legionellales;;Coxiellaceae;;EU287126_g;EU287126_s;;EU287126
+I89GC4301ANDY5	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;OM60_o;;IMCC2047_f;;IMCC2047_g;EU287134_s;;EU287134
+I89GC4301AX100	21	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Sandaracinaceae;;JF344203_g;EU287141_s;;EU287141
+I89GC4301CCW08	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;DQ351802_g;EU287158_s;;EU287158
+I89GC4301CF2SK	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;EU287173_s;;EU287173
+I89GC4301AR77Z	1	Bacteria;;;Spirochaetes;;Spirochaetes_c;;Spirochaetales;;Spirochaetaceae;;FJ748821_g;EU287233_s;;EU287233
+I89GC4301AX90D	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;EU287247_s;;EU287247
+I89GC4301A1BDP	21	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;EU290707_g;EU290707_s;;EU290707
+I89GC4301DAFJ0	1	Bacteria;;;Spirochaetes;;Spirochaetes_c;;Spirochaetales;;EU290731_f;;EU290731_g;EU290731_s;;EU290731
+I89GC4301CX412	1	Bacteria;;;OD1;;FJ547054_c;;AB504963_o;;EU327999_f;;EU327999_g;EU327999_s;;EU327999
+I89GC4301BL9AQ	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodospirillales;;DQ984631_f;;EU386027_g;EU373876_s;;EU373876
+I89GC4301DC1EO	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodospirillales;;Rhodospirillaceae;;Pelagibius;EU373889_s;;EU373889
+I89GC4301A3OU2	11	Bacteria;;;Gemmatimonadetes;;GU568020_c;;EU374070_o;;EU374070_f;;EU374070_g;EU374070_s;;EU374070
+I89GC4301CVWFM	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374093_f;;EU374093_g;EU374089_s;;EU374089
+I89GC4301DFBI2	2	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;EU374107_s;;EU374107
+I89GC4301CT3IF	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterium_g1_o;;Desulfobacterium_g1_f;;Desulfobacterium_g1;EU385682_s;;EU385682
+I89GC4301CEU4X	7	Bacteria;;;UT06;;UT06_c;;UT06_o;;AF323761_f;;EU385684_g;EU385684_s;;EU385684
+I89GC4301CLT3D	6	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;JF747669_f;;EU735014_g;EU385709_s;;EU385709
+I89GC4301DMKOV	14	Bacteria;;;Chloroflexi;;Caldilineae;;Caldilineales;;EU385730_f;;EU385730_g;EU385730_s;;EU385730
+I89GC4301AOB5S	1	Bacteria;;;OP11;;HQ183952_c;;DQ811942_o;;DQ811942_f;;DQ811942_g;EU385746_s;;EU385746
+I89GC4301CER4U	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;DQ394965_g;EU385763_s;;EU385763
+I89GC4301BIUET	3	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;EU385768_s;;EU385768
+I89GC4301AOI7P	2	Bacteria;;;Actinobacteria;;DQ513070_c;;EU385864_o;;EU385864_f;;EU385864_g;EU385864_s;;EU385864
+I89GC4301COIRJ	1	Bacteria;;;Armatimonadetes;;EU385871_c;;EU385871_o;;EU385871_f;;EU385871_g;EU385871_s;;EU385871
+I89GC4301CBF45	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterium_g1_o;;GU553714_f;;GU553714_g;EU385886_s;;EU385886
+I89GC4301DD7RA	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterium_g1_o;;GU553714_f;;GU553714_g;EU385917_s;;EU385917
+I89GC4301BQY09	1	Bacteria;;;WS3;;AQSL_c;;AQSL_o;;AQSL_f;;AQSL_g;EU385924_s;;EU385924
+I89GC4301BJYMD	1	Bacteria;;;OP3;;FP245540_c;;FP245540_o;;GU472720_f;;EU385938_g;EU385938_s;;EU385938
+I89GC4301CHWKR	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;EU385785_g;EU385948_s;;EU385948
+I89GC4301DH12W	1	Bacteria;;;GU363019_p;;GU363019_c;;GU363019_o;;GU363019_f;;EU386011_g;EU386011_s;;EU386011
+I89GC4301ARZFV	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodospirillales;;Rhodospirillaceae;;EU386018_g;EU386018_s;;EU386018
+I89GC4301CSG66	1	Bacteria;;;OP3;;FP245540_c;;FP245540_o;;FP245540_f;;FP245540_g;EU386021_s;;EU386021
+I89GC4301C5MAV	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;AJ306774_o;;AJ306774_f;;AJ306774_g;EU386051_s;;EU386051
+I89GC4301AELFX	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;AY771942_f;;AY771942_g;EU386090_s;;EU386090
+I89GC4301AM75Q	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;GQ356959_o;;GQ356959_f;;GQ356959_g;EU386095_s;;EU386095
+I89GC4301C0B30	3	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Syntrophobacterales;;EU386119_f;;EU386119_g;EU386119_s;;EU386119
+I89GC4301DNH7C	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;EU386128_s;;EU386128
+I89GC4301C6F7U	1	Bacteria;;;Chloroflexi;;EU335161_c;;EU335161_o;;EU335161_f;;EU386131_g;EU386131_s;;EU386131
+I89GC4301ATXF2	2	Bacteria;;;10BAV;;10BAV_c;;10BAV_o;;10BAV_f;;10BAV_g;EU386132_s;;EU386132
+I89GC4301AMTE7	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Oceanospirillaceae;;Marinobacterium;Marinobacterium maritimum;;AR11-EU399548(T)
+I89GC4301B953B	1	Bacteria;;;Actinobacteria;;Actinobacteria_c;;Streptosporangiales;;Thermomonosporaceae;;Actinoallomurus;Actinoallomurus oryzae;;GMKU 370-EU420071(T)
+I89GC4301AD0N9	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;FM253572_o;;FM253572_f;;FM253572_g;EU440668_s;;EU440668
+I89GC4301DM64R	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GQ259278_f;;DQ394968_g;EU487866_s;;EU487866
+I89GC4301BAQOV	8	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;EU487867_s;;EU487867
+I89GC4301APLN9	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;Dehalococcoidaceae;;EU487877_g;EU487877_s;;EU487877
+I89GC4301AKH4M	1	Bacteria;;;Caldithrix_p;;Caldithrix_c;;Caldithrix_o;;Caldithrix_f;;DQ811935_g;EU487880_s;;EU487880
+I89GC4301CSOR5	3	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;EU487891_s;;EU487891
+I89GC4301CRNWV	1	Bacteria;;;Caldithrix_p;;Caldithrix_c;;Caldithrix_o;;Caldithrix_f;;AB530234_g;EU487899_s;;EU487899
+I89GC4301AN2ZY	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;AY222314_g;EU487911_s;;EU487911
+I89GC4301A261M	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU245359_o;;EU245359_f;;EU245359_g;EU487915_s;;EU487915
+I89GC4301BIV9A	1	Bacteria;;;GN04;;EU385751_c;;EU385751_o;;EU592438_f;;EU592438_g;EU487916_s;;EU487916
+I89GC4301BDNI3	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;EU385821_f;;AM086136_g;EU487937_s;;EU487937
+I89GC4301A4EXY	1	Bacteria;;;OD1;;OD1_c;;OD1_o;;EU487945_f;;EU487945_g;EU487945_s;;EU487945
+I89GC4301B6JTS	2	Bacteria;;;Chloroflexi;;Caldilineae;;DQ394964_o;;DQ394964_f;;DQ394964_g;EU488019_s;;EU488019
+I89GC4301DBFUJ	1	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;EU488030_s;;EU488030
+I89GC4301BZ6OK	8	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;EU488086_s;;EU488086
+I89GC4301A775R	1	Bacteria;;;Chloroflexi;;GQ396871_c;;GQ396871_o;;GQ396871_f;;GQ396871_g;EU488103_s;;EU488103
+I89GC4301DCN6U	5	Bacteria;;;WS3;;AQSL_c;;AQSL_o;;EU592431_f;;EU592431_g;EU488114_s;;EU488114
+I89GC4301AG1WR	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;HM243977_o;;DQ811827_f;;DQ463694_g;EU488121_s;;EU488121
+I89GC4301ACFEL	4	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;EU488144_s;;EU488144
+I89GC4301C3HO5	2	Bacteria;;;WS3;;GU302492_c;;DQ811952_o;;DQ811952_f;;DQ811952_g;EU488192_s;;EU488192
+I89GC4301CY59Z	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;AM745150_g;EU488227_s;;EU488227
+I89GC4301CT7UP	1	Bacteria;;;Chloroflexi;;Caldilineae;;Caldilineales;;AF419668_f;;AF419668_g;EU488252_s;;EU488252
+I89GC4301BDF5A	1	Bacteria;;;Chloroflexi;;Anaerolineae;;FJ517056_o;;FJ517056_f;;EF061968_g;EU488293_s;;EU488293
+I89GC4301BQHHA	1	Bacteria;;;Spirochaetes;;Spirochaetes_c;;Spirochaetales;;Spirochaetaceae;;FJ748821_g;EU488331_s;;EU488331
+I89GC4301DET8R	1	Bacteria;;;Chloroflexi;;Caldilineae;;EU245088_o;;EU245088_f;;EU245088_g;EU488333_s;;EU488333
+I89GC4301CKUSW	2	Bacteria;;;Spirochaetes;;Spirochaetes_c;;Spirochaetales;;Spirochaetaceae;;FJ748821_g;EU488391_s;;EU488391
+I89GC4301A9G44	1	Bacteria;;;Chloroflexi;;Caldilineae;;Caldilineales;;AF419668_f;;AF419668_g;EU488416_s;;EU488416
+I89GC4301DQCYI	6	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;EU488417_s;;EU488417
+I89GC4301CMRFC	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;AM745150_g;EU488437_s;;EU488437
+I89GC4301ALZKI	2	Bacteria;;;Chloroflexi;;Anaerolineae;;AY704393_o;;AY869684_f;;AY869684_g;EU488460_s;;EU488460
+I89GC4301C0XWI	1	Bacteria;;;OP3;;HM243796_c;;HM243796_o;;AB015559_f;;EU245642_g;EU488472_s;;EU488472
+I89GC4301AQSH4	1	Bacteria;;;Spirochaetes;;Spirochaetes_c;;Spirochaetales;;Spirochaetaceae;;FJ748821_g;EU488492_s;;EU488492
+I89GC4301C59EF	1	Bacteria;;;Chloroflexi;;Caldilineae;;EU245088_o;;EU245088_f;;EU245088_g;EU488497_s;;EU488497
+I89GC4301B71QO	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;EU491057_s;;EU491057
+I89GC4301BFIZE	4	Bacteria;;;Nitrospirae;;Nitrospira_c;;Nitrospirales;;Nitrospiraceae;;HM186894_g;EU491191_s;;EU491191
+I89GC4301BHCEK	1	Bacteria;;;Acidobacteria;;EU795203_c;;EU795203_o;;EU795203_f;;EU925917_g;EU491200_s;;EU491200
+I89GC4301BSM0Z	4	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;EU491330_g;EU491330_s;;EU491330
+I89GC4301BT9WD	1	Bacteria;;;Gemmatimonadetes;;GU568020_c;;EU374070_o;;EU374070_f;;EU374070_g;EU491357_s;;EU491357
+I89GC4301C3L0J	2	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;JF747669_f;;JF747669_g;EU491391_s;;EU491391
+I89GC4301BW1VG	6	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;EU491404_g;EU491404_s;;EU491404
+I89GC4301ABUHR	2	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EU491467_g;EU491467_s;;EU491467
+I89GC4301CX8B5	3	Bacteria;;;Actinobacteria;;Rubrobacteria;;Gaiellales;;Gaiellaceae;;Gaiella;EU491469_s;;EU491469
+I89GC4301BCZWY	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;AM997334_g;EU491628_s;;EU491628
+I89GC4301BMFZP	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;Bythopirellula;EU491630_s;;EU491630
+I89GC4301DG90S	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EU491724_g;EU491724_s;;EU491724
+I89GC4301DC13Q	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;AJ231182_g;EU491748_s;;EU491748
+I89GC4301C1OZZ	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EU491864_g;EU491864_s;;EU491864
+I89GC4301CFB72	1	Bacteria;;;OP11;;HQ183952_c;;EU386083_o;;EU386083_f;;EU542489_g;EU542489_s;;EU542489
+I89GC4301BDUBH	1	Bacteria;;;GN04;;EU385751_c;;EU385751_o;;EU385751_f;;EU542519_g;EU542519_s;;EU542519
+I89GC4301BWW9U	1	Bacteria;;;Actinobacteria;;Actinobacteria_c;;Kineosporiales;;Kineosporiaceae;;Kineococcus;Kineococcus xinjiangensis;;S2-20-EU543662(T)
+I89GC4301CQRPS	1	Bacteria;;;Tenericutes;;Mollicutes;;GU196243_o;;GU196243_f;;EU570894_g;EU570894_s;;EU570894
+I89GC4301BJIU6	1	Bacteria;;;GN04;;EU385751_c;;EU385751_o;;EU592438_f;;EU592438_g;EU592438_s;;EU592438
+I89GC4301B0D41	1	Bacteria;;;Caldithrix_p;;Caldithrix_c;;Caldithrix_o;;Caldithrix_f;;AB530234_g;EU592472_s;;EU592472
+I89GC4301CK6W5	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU245359_o;;EU245359_f;;EU245359_g;EU592490_s;;EU592490
+I89GC4301C785I	4	Bacteria;;;TM6;;TM6_c;;FJ264771_o;;FJ264771_f;;FJ264771_g;EU592493_s;;EU592493
+I89GC4301ABAIG	2	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;Thermodesulfovibrio_f;;FR667834_g;EU617719_s;;EU617719
+I89GC4301CJV98	3	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;JF344531_f;;JF344531_g;EU617736_s;;EU617736
+I89GC4301AUUC5	1	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;JF344531_f;;JF344531_g;EU617737_s;;EU617737
+I89GC4301BRF6X	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodospirillales;;Rhodospirillaceae;;Pelagibius;EU617823_s;;EU617823
+I89GC4301CVAPM	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodospirillales;;Rhodospirillaceae;;EU652585_g;EU617826_s;;EU617826
+I89GC4301C65FF	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617831_o;;EU617831_f;;EU617831_g;EU617831_s;;EU617831
+I89GC4301CWLKB	4	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;EU617842_g;EU617842_s;;EU617842
+I89GC4301CJLNV	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Deferrisoma_o;;Deferrisoma_f;;Deferrisoma;EU617844_s;;EU617844
+I89GC4301DLDS1	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;Phycisphaerales;;Phycisphaeraceae;;AJ966588_g;EU617891_s;;EU617891
+I89GC4301B2FK6	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;EU617894_s;;EU617894
+I89GC4301DC1H2	1	Bacteria;;;Acidobacteria;;Z95718_c;;Z95718_o;;EU652506_f;;EU652506_g;EU652506_s;;EU652506
+I89GC4301BTUDW	9	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;AJ966605_f;;AJ966605_g;EU652571_s;;EU652571
+I89GC4301B9L2Q	2	Bacteria;;;Gemmatimonadetes;;Gemmatimonadetes_c;;Gemmatimonadales;;EU881211_f;;EU491374_g;EU682497_s;;EU682497
+I89GC4301CSRTM	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;EU734929_s;;EU734929
+I89GC4301BPK9T	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;EU734963_g;EU734963_s;;EU734963
+I89GC4301AON3H	1	Bacteria;;;Acidobacteria;;HM243779_c;;AM997925_o;;AM997925_f;;EU373947_g;EU734964_s;;EU734964
+I89GC4301CZVUS	6	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU734972_o;;EU734972_f;;EU734972_g;EU734972_s;;EU734972
+I89GC4301BL3ZH	3	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;JF747669_f;;JF747669_g;EU734975_s;;EU734975
+I89GC4301BCN4U	5	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;HQ864112_g;EU734976_s;;EU734976
+I89GC4301AURKL	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;EU734993_g;EU734993_s;;EU734993
+I89GC4301BJDRM	4	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;JF747669_f;;EU735014_g;EU735014_s;;EU735014
+I89GC4301AOM6R	2	Bacteria;;;Gemmatimonadetes;;GU568020_c;;EU374070_o;;EU374070_f;;EU374070_g;EU735019_s;;EU735019
+I89GC4301ACEML	1	Bacteria;;;Planctomycetes;;Brocadia_c;;Brocadia_o;;EU881130_f;;EU881130_g;EU881130_s;;EU881130
+I89GC4301B26PT	144	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g12;Bacillus neizhouensis;;JSM 071004-EU925618(T)
+I89GC4301CZWHK	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Polyangiaceae;;EU925840_g;EU925840_s;;EU925840
+I89GC4301BG0KD	1	Bacteria;;;BRC1;;FP245541_c;;FP245541_o;;EU925842_f;;EU925842_g;EU925842_s;;EU925842
+I89GC4301CO9NX	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Legionellales;;Coxiellaceae;;EU925872_g;EU925872_s;;EU925872
+I89GC4301BFRGO	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU491876_o;;EU491876_f;;EU491876_g;EU925894_s;;EU925894
+I89GC4301AXK0Y	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Legionellales;;Coxiellaceae;;FJ437785_g;EU925916_s;;EU925916
+I89GC4301CE9YF	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Halocynthiibacter;FJ196058_s;;FJ196058
+I89GC4301BZHXE	88	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Hyphomicrobiaceae;;Hyphomicrobium;FJ197410_s;;FJ197410
+I89GC4301CZCJB	1	Bacteria;;;Firmicutes;;Clostridia;;Clostridiales;;Acidaminobacter_f;;FJ202163_g;FJ202163_s;;FJ202163
+I89GC4301BA89L	2	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;FJ203222_g;FJ203222_s;;FJ203222
+I89GC4301C7N4N	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;FJ203423_g;FJ203423_s;;FJ203423
+I89GC4301BD1RA	3	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;AM997334_g;FJ203488_s;;FJ203488
+I89GC4301CNHE1	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EU491663_g;FJ203525_s;;FJ203525
+I89GC4301CEJ58	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;FJ203222_g;FJ203577_s;;FJ203577
+I89GC4301C06IM	1	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;JF344531_f;;JF344531_g;FJ205208_s;;FJ205208
+I89GC4301BCDTR	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HM066343_f;;FJ205216_g;FJ205216_s;;FJ205216
+I89GC4301CA0V3	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;AJ966605_f;;AJ966605_g;FJ205275_s;;FJ205275
+I89GC4301B3S1B	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HM066343_f;;HM066343_g;FJ205288_s;;FJ205288
+I89GC4301DJ4T4	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617831_o;;EU617831_f;;EU617831_g;FJ205324_s;;FJ205324
+I89GC4301BZHAC	7	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;AJ306774_o;;AJ306774_f;;AJ306774_g;FJ264596_s;;FJ264596
+I89GC4301AXTHO	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;AM745166_g;FJ264746_s;;FJ264746
+I89GC4301CNLQD	2	Bacteria;;;OD1;;OD1_c;;OD1_o;;AB193900_f;;FJ264776_g;FJ264776_s;;FJ264776
+I89GC4301A2OXZ	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Thiohalophilus_f;;Thioprofundum;FJ358866_s;;FJ358866
+I89GC4301CS4VH	2	Bacteria;;;WS3;;GU302492_c;;GQ246422_o;;GQ246422_f;;GQ246422_g;FJ358926_s;;FJ358926
+I89GC4301BRHPL	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;FJ416121_g;FJ416078_s;;FJ416078
+I89GC4301A164U	14	Bacteria;;;Chlorobi;;Ignavibacteriae;;Ignavibacteriales;;Ignavibacteriaceae;;Ignavibacterium;FJ416082_s;;FJ416082
+I89GC4301BOJ5G	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;AM997336_g;FJ416092_s;;FJ416092
+I89GC4301CRU28	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617831_o;;FJ444731_f;;FJ444731_g;FJ444731_s;;FJ444731
+I89GC4301C8AE1	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Hyphomicrobiaceae;;Filomicrobium;FJ455876_s;;FJ455876
+I89GC4301DL8AA	3	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;Thermoanaerobaculum_f;;DQ395019_g;FJ455879_s;;FJ455879
+I89GC4301C49Y8	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;FM253572_o;;FM253572_f;;FJ478897_g;FJ478897_s;;FJ478897
+I89GC4301CRXPZ	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;AM991259_g;FJ479124_s;;FJ479124
+I89GC4301C8KOQ	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Haliangiaceae;;AB294333_g;FJ479136_s;;FJ479136
+I89GC4301C276F	3	Bacteria;;;WS3;;GU302492_c;;HM243942_o;;FJ484527_f;;FJ485054_g;FJ485054_s;;FJ485054
+I89GC4301AM2JX	1	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;GU302492_f;;FJ516882_g;FJ516882_s;;FJ516882
+I89GC4301CQDX0	1	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;Thermodesulfovibrio_f;;GQ921458_g;FJ516912_s;;FJ516912
+I89GC4301BPQH6	1	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;GU302492_f;;GU302492_g;FJ517000_s;;FJ517000
+I89GC4301DDNOG	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;FJ716475_g;FJ517061_s;;FJ517061
+I89GC4301COR3Z	4	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;FJ712481_g;FJ545440_s;;FJ545440
+I89GC4301ANN7Z	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Nitrospinaceae_o;;FJ545464_f;;FJ545464_g;FJ545464_s;;FJ545464
+I89GC4301BBRBY	1	Bacteria;;;Gemmatimonadetes;;GU568020_c;;GU568020_o;;GU568020_f;;AB015540_g;FJ545487_s;;FJ545487
+I89GC4301AVXZS	1	Bacteria;;;Acidobacteria;;Chloracidobacterium_c;;Blastocatella_o;;Blastocatella_f;;Blastocatella;FJ545571_s;;FJ545571
+I89GC4301A9JP7	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;FJ545574_g;FJ545574_s;;FJ545574
+I89GC4301B8EJI	3	Bacteria;;;Acidobacteria;;HM243779_c;;AM997925_o;;AM997925_f;;HQ190557_g;FJ545586_s;;FJ545586
+I89GC4301DRL2B	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Bauldia_f;;Bauldia;Bauldia consociata;;11-FJ560750(T)
+I89GC4301CK9WD	16	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374100_g;FJ624300_s;;FJ624300
+I89GC4301BK1XX	1	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;JF747669_f;;JF747669_g;FJ640812_s;;FJ640812
+I89GC4301BKUVI	3	Bacteria;;;WS3;;GU302492_c;;GQ246422_o;;GQ246422_f;;GQ246422_g;FJ712435_s;;FJ712435
+I89GC4301C8H39	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;AJ306767_g;FJ712491_s;;FJ712491
+I89GC4301CUE85	1	Bacteria;;;OP11;;FJ746304_c;;FJ746304_o;;FJ746304_f;;FJ746304_g;FJ746304_s;;FJ746304
+I89GC4301B7SEH	1	Bacteria;;;Gemmatimonadetes;;GU568020_c;;EU374070_o;;EU374070_f;;EU374070_g;FJ748795_s;;FJ748795
+I89GC4301C834P	5	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;GU455152_f;;FN820298_g;FJ813520_s;;FJ813520
+I89GC4301CI362	1	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;FJ813548_s;;FJ813548
+I89GC4301B46NP	6	Bacteria;;;Spirochaetes;;Spirochaetes_c;;Spirochaetales;;Spirochaetaceae;;FJ748821_g;FJ813563_s;;FJ813563
+I89GC4301ASENH	1	Bacteria;;;Actinobacteria;;Thermoleophilia;;Solirubrobacterales;;AB630582_f;;AB630582_g;FJ873306_s;;FJ873306
+I89GC4301C8F52	1	Bacteria;;;Caldithrix_p;;Caldithrix_c;;Caldithrix_o;;Caldithrix_f;;AB530234_g;FJ873371_s;;FJ873371
+I89GC4301DA3ZD	11	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;FJ873372_s;;FJ873372
+I89GC4301B8LNC	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;EU246287_f;;EU246287_g;FJ901632_s;;FJ901632
+I89GC4301CD37N	3	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Hyphomicrobiaceae;;Methyloligella;FM211779_s;;FM211779
+I89GC4301BPHPM	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;EU181467_g;FM211789_s;;FM211789
+I89GC4301CDTJC	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;OM182_o;;OM182_f;;OM182_g;FM242300_s;;FM242300
+I89GC4301DM6Y5	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;DQ395499_g;FM242367_s;;FM242367
+I89GC4301AQ61L	11	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Planococcaceae;;Paenisporosarcina;Paenisporosarcina indica;;PN2T-FN397659(T)
+I89GC4301C2B84	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;FM253643_f;;EU734958_g;FN553506_s;;FN553506
+I89GC4301DDWT5	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;GU455152_f;;FN820298_g;FN820298_s;;FN820298
+I89GC4301AK72J	12	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;Thermodesulfovibrio_f;;FR667834_g;FR667834_s;;FR667834
+I89GC4301CX3KS	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;FR691455_s;;FR691455
+I89GC4301BZ3C2	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Ectothiorhodospiraceae;;Ectothiorhodospira;Ectothiorhodospira shaposhnikovii;;FR733667
+I89GC4301CDI5R	1	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;Nonlabens;Nonlabens xylanidelens;;DSM16809-FR733714(T)
+I89GC4301DOS4W	1	Bacteria;;;Firmicutes;;Clostridia;;Clostridiales;;Peptostreptococcaceae;;Clostridium_g4;Eubacterium tenue;;DSM 20695-FR749984(T)
+I89GC4301DQTZG	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Oceanospirillaceae;;Neptuniibacter;Neptuniibacter halophilus;;antisso-13-GQ131677(T)
+I89GC4301AJ6LN	3	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;GQ143758_s;;GQ143758
+I89GC4301B8DI3	6	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;EU385821_f;;EU385821_g;GQ143803_s;;GQ143803
+I89GC4301CM8VW	1	Bacteria;;;Caldithrix_p;;Caldithrix_c;;Caldithrix_o;;Caldithrix_f;;DQ811935_g;GQ181836_s;;GQ181836
+I89GC4301BM9WY	1	Bacteria;;;Firmicutes;;Clostridia;;Clostridiales;;Peptostreptococcaceae;;Tepidibacter;Tepidibacter mesophilus;;B1-GQ231514(T)
+I89GC4301BX131	75	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Litorimicrobium;Litorimicrobium taeanense;;G4-GQ232737(T)
+I89GC4301AI21J	1	Bacteria;;;OD1;;OD1_c;;OD1_o;;AM982633_f;;GQ143770_g;GQ246297_s;;GQ246297
+I89GC4301ABZYQ	49	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;FJ712481_g;GQ246337_s;;GQ246337
+I89GC4301DJFL8	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;FM253572_o;;GU208445_f;;AB240371_g;GQ246353_s;;GQ246353
+I89GC4301ADNN4	37	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Syntrophobacterales;;GQ246357_f;;GQ246357_g;GQ246357_s;;GQ246357
+I89GC4301BWZ0N	1	Bacteria;;;GQ246394_p;;GQ246394_c;;GQ246394_o;;GQ246394_f;;GQ246394_g;GQ246394_s;;GQ246394
+I89GC4301AA0IT	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;DQ394930_g;GQ246406_s;;GQ246406
+I89GC4301CR0I4	1	Bacteria;;;TM6;;TM6_c;;FJ264771_o;;FJ264771_f;;FJ264771_g;GQ246408_s;;GQ246408
+I89GC4301A8M57	4	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;GQ246409_s;;GQ246409
+I89GC4301CLJIP	13	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterium_g1_o;;Desulfobacterium_g1_f;;Desulfobacterium_g1;GQ246432_s;;GQ246432
+I89GC4301DELCY	1	Bacteria;;;Nitrospirae;;Nitrospira_c;;EU335197_o;;EU335197_f;;EU335197_g;GQ246443_s;;GQ246443
+I89GC4301DB7X5	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;GQ246448_s;;GQ246448
+I89GC4301ANSPS	1	Bacteria;;;Bacteroidetes;;Bacteroidia;;Bacteroidales;;GU454901_f;;EU488084_g;GQ259282_s;;GQ259282
+I89GC4301BQRDR	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Caulobacterales;;Caulobacteraceae;;Phenylobacterium;GQ264133_s;;GQ264133
+I89GC4301B5M9Y	1	Bacteria;;;Actinobacteria;;Actinobacteria_c;;Propionibacteriales;;Nocardioidaceae;;Nocardioides;Nocardioides panaciterrulae;;Gsoil 958-GQ339903(T)
+I89GC4301A1QXB	1	Bacteria;;;OD1;;OD1_c;;OD1_o;;GQ348056_f;;GQ348056_g;GQ348056_s;;GQ348056
+I89GC4301ALSN7	1	Bacteria;;;OD1;;OD1_c;;OD1_o;;AB193900_f;;AB193900_g;GQ348940_s;;GQ348940
+I89GC4301CGQKP	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodospirillales;;DQ984631_f;;GQ351141_g;GQ351141_s;;GQ351141
+I89GC4301DRU7I	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;EU589314_f;;GQ351249_g;GQ351249_s;;GQ351249
+I89GC4301AXWIB	1	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;AB530233_f;;AB530233_g;GQ356961_s;;GQ356961
+I89GC4301DJ900	84	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;GQ407176_s;;GQ407176
+I89GC4301AFZAC	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;AM745150_g;GQ472825_s;;GQ472825
+I89GC4301ARMTD	1	Bacteria;;;OP11;;AF050605_c;;AF050605_o;;DQ811944_f;;GQ850570_g;GQ850570_s;;GQ850570
+I89GC4301BM4NQ	1	Bacteria;;;Acidobacteria;;HM243779_c;;AM997925_o;;AM997925_f;;HQ190557_g;GQ866094_s;;GQ866094
+I89GC4301BFMYN	3	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;Bacillus luteolus;;YIM 93174-GQ925365(T)
+I89GC4301BMHSS	4	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;DQ906757_o;;DQ906757_f;;DQ906757_g;GU061230_s;;GU061230
+I89GC4301CPUCQ	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;GU118029_s;;GU118029
+I89GC4301CRX9U	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Zooshikella_f;;Endozoicomonas;GU118379_s;;GU118379
+I89GC4301A3DMG	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Arenicella_o;;HQ857665_f;;HQ857665_g;GU119058_s;;GU119058
+I89GC4301CJXQ4	1	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;Lutibacter;Lutibacter flavus;;IMCC1507-GU166749(T)
+I89GC4301BCY83	2	Bacteria;;;TM6;;TM6_c;;TM6_o;;GU172187_f;;GU172187_g;GU172187_s;;GU172187
+I89GC4301DDDZG	3	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;Rhodobiaceae;;Tepidamorphus;Tepidamorphus gemmatus;;CB-27A-GU187912(T)
+I89GC4301A49PD	6	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Thioalkalispiraceae;;GU208301_g;GU208301_s;;GU208301
+I89GC4301BIWPK	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;GU230338_s;;GU230338
+I89GC4301ASQFY	2	Bacteria;;;Acidobacteria;;Z95718_c;;Z95718_o;;Z95718_f;;Z95718_g;GU230435_s;;GU230435
+I89GC4301DN3NU	1	Bacteria;;;Planctomycetes;;HQ681992_c;;EU589258_o;;EU589258_f;;GU230455_g;GU230455_s;;GU230455
+I89GC4301BVSWK	3	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Oceanospirillaceae;;Amphritea;GU289646_s;;GU289646
+I89GC4301A1MR1	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;AY771942_f;;AY771942_g;GU302482_s;;GU302482
+I89GC4301AT886	1	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;AB530233_f;;EU592470_g;GU302489_s;;GU302489
+I89GC4301AFCI9	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EU491483_g;GU362985_s;;GU362985
+I89GC4301BP971	4	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;AB530233_f;;AB530233_g;GU363029_s;;GU363029
+I89GC4301CCD30	1	Bacteria;;;WS3;;GU302492_c;;AM991194_o;;EU135571_f;;EU135571_g;GU444093_s;;GU444093
+I89GC4301C1J41	2	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;GU553671_s;;GU553671
+I89GC4301CDXG9	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;AM745130_g;GU553673_s;;GU553673
+I89GC4301AYJ1K	3	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Oceanospirillaceae;;Marinobacterium;GU584506_s;;GU584506
+I89GC4301CA2W0	3	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Vibrionales;;Vibrionaceae;;Vibrio;Vibrio variabilis;;R-40492-GU929924(T)
+I89GC4301CKVIH	43	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g26;HF558583_s;;HF558583
+I89GC4301ARP17	1	Bacteria;;;Firmicutes;;Clostridia;;Clostridiales;;Natranaerovirga_f;;DQ206415_g;HM128305_s;;HM128305
+I89GC4301B2G9W	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Ectothiorhodospiraceae;;Ectothiorhodospira;Ectothiorhodospira magna;;B7-7-HM149323(T)
+I89GC4301CXVU8	2	Bacteria;;;Gemmatimonadetes;;Gemmatimonadetes_c;;Gemmatimonadales;;EU881211_f;;EU881211_g;HM186700_s;;HM186700
+I89GC4301AM5WY	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;HM186856_s;;HM186856
+I89GC4301CLC76	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;HM187295_s;;HM187295
+I89GC4301A0EH9	1	Bacteria;;;Acidobacteria;;Solibacteres;;EU445199_o;;HM187196_f;;HM187196_g;HM187305_s;;HM187305
+I89GC4301CSDRN	1	Bacteria;;;Chloroflexi;;SAR202_c;;SAR202_o;;AM997775_f;;AM997775_g;HM187369_s;;HM187369
+I89GC4301ARDJT	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfuromonadales;;Geobacteraceae;;Geobacter;HM243865_s;;HM243865
+I89GC4301ASO87	3	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Nitrospinaceae_o;;DQ404777_f;;DQ404777_g;HM243928_s;;HM243928
+I89GC4301AGW21	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;AM745150_g;HM440291_s;;HM440291
+I89GC4301B213U	1	Bacteria;;;Acidobacteria;;Z95718_c;;Z95718_o;;Z95718_f;;Z95718_g;HM445496_s;;HM445496
+I89GC4301AKQPO	1	Bacteria;;;WS3;;GU302492_c;;AM991194_o;;EU881351_f;;EU881351_g;HM598177_s;;HM598177
+I89GC4301CGZU1	4	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374093_f;;EU374093_g;HM598211_s;;HM598211
+I89GC4301B0Z2L	3	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;AB530233_f;;AB530233_g;HM598262_s;;HM598262
+I89GC4301DBYI6	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;AB630886_g;HM798919_s;;HM798919
+I89GC4301BIJNL	4	Bacteria;;;EU048619_p;;EU048619_c;;EU048619_o;;EU048619_f;;GQ348499_g;HQ003617_s;;HQ003617
+I89GC4301A0K7F	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Caulobacterales;;Caulobacteraceae;;Caulobacter;HQ114112_s;;HQ114112
+I89GC4301BL48X	1	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;AB530233_f;;AB530233_g;HQ114187_s;;HQ114187
+I89GC4301AFNP4	3	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EU491467_g;HQ153945_s;;HQ153945
+I89GC4301BJ2FB	1	Bacteria;;;Bacteroidetes;;Cytophagia;;Cytophagales;;EU804292_f;;EU804292_g;HQ163185_s;;HQ163185
+I89GC4301CVGTG	1	Bacteria;;;Actinobacteria;;OPB41;;OPB41_o;;OPB41_f;;OPB41_g;HQ183928_s;;HQ183928
+I89GC4301CGNOL	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Arenicella_o;;HQ857665_f;;HQ857665_g;HQ191003_s;;HQ191003
+I89GC4301B12BA	3	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;HQ191028_s;;HQ191028
+I89GC4301DLSUI	1	Bacteria;;;Deinococcus-Thermus;;Deinococci;;Trueperales;;Trueperaceae;;FN436135_g;HQ270413_s;;HQ270413
+I89GC4301B4OZE	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;DQ811856_g;HQ397193_s;;HQ397193
+I89GC4301BBJ9B	2	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;EU491142_f;;EU491142_g;HQ588440_s;;HQ588440
+I89GC4301C99Z0	1	Bacteria;;;Chloroflexi;;Caldilineae;;DQ394964_o;;DQ394964_f;;DQ394964_g;HQ588504_s;;HQ588504
+I89GC4301CPMZD	9	Bacteria;;;Chloroflexi;;Caldilineae;;EU181507_o;;AJ306746_f;;EU266866_g;HQ588515_s;;HQ588515
+I89GC4301DDZUT	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;DQ394948_f;;DQ394948_g;HQ588552_s;;HQ588552
+I89GC4301BPOP8	30	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Paracoccus;Paracoccus oceanense;;JLT1679-HQ638977(T)
+I89GC4301DO232	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;HQ691950_s;;HQ691950
+I89GC4301C1RD4	1	Bacteria;;;Firmicutes;;Clostridia;;Clostridiales;;Anaerovirgula_f;;Caminicella;HQ696463_s;;HQ696463
+I89GC4301C1L5S	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;EU881182_g;HQ703835_s;;HQ703835
+I89GC4301BFAN7	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;HQ711385_s;;HQ711385
+I89GC4301DHCXB	3	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;HQ721303_s;;HQ721303
+I89GC4301DK77H	6	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;DQ396265_g;HQ721408_s;;HQ721408
+I89GC4301B771W	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AM997777_g;HQ727616_s;;HQ727616
+I89GC4301A7EW5	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;HQ727617_s;;HQ727617
+I89GC4301BEXW2	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;GQ433929_o;;GQ433929_f;;GQ433929_g;HQ916580_s;;HQ916580
+I89GC4301DJ1XL	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;GQ433929_o;;GQ433929_f;;GQ433929_g;HQ916582_s;;HQ916582
+I89GC4301BR8R1	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Legionellales;;Legionellaceae;;Legionella;JF028002_s;;JF028002
+I89GC4301AXHMX	2	Bacteria;;;Lentisphaerae;;GU196224_c;;GU196224_o;;EF574345_f;;EF574345_g;JF268359_s;;JF268359
+I89GC4301B82MH	1	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;Thermodesulfovibrio_f;;JF320754_g;JF320754_s;;JF320754
+I89GC4301B1H3N	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;FM253643_f;;JF344019_g;JF344019_s;;JF344019
+I89GC4301AZERF	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;JF344094_s;;JF344094
+I89GC4301BPGPI	2	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;JF344148_s;;JF344148
+I89GC4301B43T5	9	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374100_g;JF344188_s;;JF344188
+I89GC4301C4T45	5	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Sandaracinaceae;;JF344203_g;JF344203_s;;JF344203
+I89GC4301DLOU6	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Sandaracinaceae;;JF344203_g;JF344278_s;;JF344278
+I89GC4301CSKSO	1	Bacteria;;;Acidobacteria;;Z95718_c;;Z95718_o;;Z95718_f;;Z95718_g;JF344440_s;;JF344440
+I89GC4301C4IKX	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;JF344499_g;JF344499_s;;JF344499
+I89GC4301CPCY1	3	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;AJ306774_o;;AJ306774_f;;AJ306774_g;JF344529_s;;JF344529
+I89GC4301DRCQK	2	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;JF344531_f;;JF344531_g;JF344531_s;;JF344531
+I89GC4301DEX3O	1	Bacteria;;;Acidobacteria;;Z95718_c;;Z95718_o;;Z95718_f;;Z95718_g;JF344549_s;;JF344549
+I89GC4301DLZK7	9	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;Thermoanaerobaculum_f;;DQ395019_g;JF344561_s;;JF344561
+I89GC4301DJVFI	1	Bacteria;;;Acidobacteria;;Z95718_c;;Z95718_o;;Z95718_f;;Z95718_g;JF344567_s;;JF344567
+I89GC4301CDSNO	6	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;JF344576_s;;JF344576
+I89GC4301CWDO0	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;AM745130_g;JF344587_s;;JF344587
+I89GC4301CX7BK	3	Bacteria;;;TM6;;TM6_c;;FJ264771_o;;FJ264771_f;;FJ264771_g;JF344592_s;;JF344592
+I89GC4301CIGS3	5	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;AM745130_g;JF344643_s;;JF344643
+I89GC4301C6REV	1	Bacteria;;;Acidobacteria;;EU795203_c;;EU795203_o;;EU795203_f;;EU795203_g;JF344680_s;;JF344680
+I89GC4301AR6AH	1	Bacteria;;;Chlorobi;;Ignavibacteriae;;Ignavibacteriales;;JF428856_f;;JF428856_g;JF428856_s;;JF428856
+I89GC4301CKNDL	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;AY771942_f;;AY771942_g;JF495318_s;;JF495318
+I89GC4301CHGR9	5	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhizobiales;;AM997334_f;;JF514252_g;JF514252_s;;JF514252
+I89GC4301BJD1E	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;GQ433929_o;;GQ433929_f;;GQ433929_g;JF747629_s;;JF747629
+I89GC4301CBYU1	19	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;JF747669_f;;EU735014_g;JF747631_s;;JF747631
+I89GC4301DLQ44	2	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;JF747669_f;;JF747669_g;JF747649_s;;JF747649
+I89GC4301BO3VS	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;GQ433929_o;;GQ433929_f;;GQ433929_g;JF747677_s;;JF747677
+I89GC4301ADJMQ	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;EU374107_g;JF809695_s;;JF809695
+I89GC4301BL0NT	1	Bacteria;;;TM6;;TM6_c;;TM6_o;;JF830145_f;;JF830145_g;JF830145_s;;JF830145
+I89GC4301CATN9	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;Bacillus vallismortis;;DV1-F-3-JH600273(T)
+I89GC4301A0P91	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;AM997336_g;JN018876_s;;JN018876
+I89GC4301AZE2M	1	Bacteria;;;Acidobacteria;;EU686603_c;;EU686603_o;;EU686603_f;;GU260705_g;JN023930_s;;JN023930
+I89GC4301B0V33	1	Bacteria;;;WS3;;GU302492_c;;AM991194_o;;EU135571_f;;EU135571_g;JN038588_s;;JN038588
+I89GC4301AZ7GG	3	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JN123534_s;;JN123534
+I89GC4301BO3S0	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JN123558_s;;JN123558
+I89GC4301BSSMF	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;JN123561_s;;JN123561
+I89GC4301DCEA4	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JN123571_s;;JN123571
+I89GC4301DA1OY	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JN123598_s;;JN123598
+I89GC4301AHMOF	2	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;JN166335_s;;JN166335
+I89GC4301AGVK9	3	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Anaerobacillus;JN178396_s;;JN178396
+I89GC4301A6MDQ	2	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Anaerobacillus;JN178568_s;;JN178568
+I89GC4301B1WME	79	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Anaerobacillus;JN178639_s;;JN178639
+I89GC4301BWMQS	1	Bacteria;;;TM6;;TM6_c;;FJ264771_o;;FJ264771_f;;FJ264771_g;JN229865_s;;JN229865
+I89GC4301AID90	6	Bacteria;;;Chloroflexi;;SAR202_c;;SAR202_o;;AM997775_f;;AM997775_g;JN229891_s;;JN229891
+I89GC4301BL15R	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;EU385821_f;;EU385821_g;JN230042_s;;JN230042
+I89GC4301CQ7F7	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;EU617842_o;;EU617842_f;;EU287101_g;JN230071_s;;JN230071
+I89GC4301DIXT0	1	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;JN230080_s;;JN230080
+I89GC4301BGTV1	1	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;JN230219_s;;JN230219
+I89GC4301BJDRX	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JN230303_s;;JN230303
+I89GC4301BPSC4	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Legionellales;;Legionellaceae;;Legionella;JN427486_s;;JN427486
+I89GC4301CZU9W	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Legionellales;;Coxiellaceae;;EF492067_g;JN445744_s;;JN445744
+I89GC4301CQLM6	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;EU385821_f;;AM086136_g;JN457492_s;;JN457492
+I89GC4301BVQVB	1	Bacteria;;;Planctomycetes;;JN475307_c;;JN475307_o;;JN475307_f;;JN475307_g;JN475307_s;;JN475307
+I89GC4301CQV22	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;JN513178_s;;JN513178
+I89GC4301BF4S4	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterium_g1_o;;Desulfobacterium_g1_f;;Desulfobacterium_g1;JN515097_s;;JN515097
+I89GC4301BWLDU	4	Bacteria;;;Acidobacteria;;EU700145_c;;EU700145_o;;EU700145_f;;EU700145_g;JN517460_s;;JN517460
+I89GC4301COB58	1	Bacteria;;;Gemmatimonadetes;;Gemmatimonadetes_c;;Gemmatimonadales;;EU881211_f;;EU491374_g;JN527977_s;;JN527977
+I89GC4301ANNEA	1	Bacteria;;;Bacteroidetes;;Bacteroidia;;Bacteroidales;;GQ357022_f;;EU487965_g;JN531967_s;;JN531967
+I89GC4301A4R48	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EF123574_g;JN532888_s;;JN532888
+I89GC4301ALL8C	1	Bacteria;;;TM6;;TM6_c;;TM6_o;;EU038003_f;;AB257652_g;JN533393_s;;JN533393
+I89GC4301DGJKA	1	Bacteria;;;OD1;;OD1_c;;OD1_o;;EU245823_f;;EU245823_g;JN533525_s;;JN533525
+I89GC4301DE1Z9	1	Bacteria;;;Fibrobacteres;;JF304641_c;;AM162455_o;;AM162455_f;;EU245407_g;JN536018_s;;JN536018
+I89GC4301ADQ1Q	1	Bacteria;;;Actinobacteria;;EU374107_c;;EU374107_o;;EU374107_f;;FJ712481_g;JN537154_s;;JN537154
+I89GC4301DC7IS	2	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;EF123574_g;JN537339_s;;JN537339
+I89GC4301BBGL4	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodospirillales;;DQ984631_f;;EU373873_g;JN672662_s;;JN672662
+I89GC4301DC1GY	1	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;Lutibacter;Lutibacter agarilyticus;;KYW566-JN864028(T)
+I89GC4301AKSR0	1	Bacteria;;;Acidobacteria;;EU795203_c;;EU795203_o;;EU795203_f;;EU795203_g;JN977149_s;;JN977149
+I89GC4301B5NHL	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;JN977165_s;;JN977165
+I89GC4301CDUQP	12	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;JN977207_s;;JN977207
+I89GC4301BD0XE	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;AM745150_g;JN977248_s;;JN977248
+I89GC4301BV07Q	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Sedimenticola_f;;Sedimenticola;JN977276_s;;JN977276
+I89GC4301BE5OU	20	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;DQ811856_g;JN977295_s;;JN977295
+I89GC4301BVF8Y	3	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;JF747669_f;;JF747669_g;JN977312_s;;JN977312
+I89GC4301CHQMM	1	Bacteria;;;Acidobacteria;;Z95718_c;;Z95718_o;;Z95718_f;;Z95718_g;JN977337_s;;JN977337
+I89GC4301C3PLP	1	Bacteria;;;Firmicutes;;Clostridia;;Clostridiales;;EU234093_f;;AB248646_g;JQ086915_s;;JQ086915
+I89GC4301B5JCW	1	Bacteria;;;GN02;;GN02_c;;AJ224539_o;;EU246208_f;;EU246208_g;JQ245587_s;;JQ245587
+I89GC4301CYO12	4	Bacteria;;;Chloroflexi;;EU335161_c;;EU335161_o;;EU335161_f;;EF018589_g;JQ279048_s;;JQ279048
+I89GC4301DHB8C	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;JQ347364_s;;JQ347364
+I89GC4301C39LJ	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;FJ542976_g;JQ347379_s;;JQ347379
+I89GC4301C6EBZ	1	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;Altuibacter;Altuibacter lentus;;JLT2010-JQ362482(T)
+I89GC4301CS2KG	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;HQ845450_g;JQ580063_s;;JQ580063
+I89GC4301B5WKF	1	Bacteria;;;Chlorobi;;Ignavibacteriae;;Ignavibacteriales;;Ignavibacteriaceae;;Ignavibacterium;JQ580230_s;;JQ580230
+I89GC4301CQFK1	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Sediminibacillus;Virgibacillus albus;;YIM 93624-JQ680032(T)
+I89GC4301BB9XU	1	Bacteria;;;Actinobacteria;;Rubrobacteria;;Gaiellales;;Gaiellaceae;;Gaiella;JQ738713_s;;JQ738713
+I89GC4301BVH0V	2	Bacteria;;;Actinobacteria;;Thermoleophilia;;Solirubrobacterales;;AB630582_f;;AB630582_g;JQ738722_s;;JQ738722
+I89GC4301AEJ6A	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ816269_s;;JQ816269
+I89GC4301COM58	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ816343_s;;JQ816343
+I89GC4301DQW2N	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;EU385821_f;;EU385821_g;JQ816422_s;;JQ816422
+I89GC4301C5JCK	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ816434_s;;JQ816434
+I89GC4301BG2CB	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterium_g1_o;;Desulfobacterium_g1_f;;Desulfobacterium_g1;JQ816986_s;;JQ816986
+I89GC4301DCIE1	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GQ259278_f;;DQ394968_g;JQ817183_s;;JQ817183
+I89GC4301CXPZ2	3	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;EU385821_f;;EU385821_g;JQ817373_s;;JQ817373
+I89GC4301AYODM	5	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;Dehalococcoidaceae;;EU487877_g;JQ817492_s;;JQ817492
+I89GC4301BYCUR	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;EU246070_f;;EU246070_g;JQ817659_s;;JQ817659
+I89GC4301AWVVW	1	Bacteria;;;JQ817711_p;;JQ817711_c;;JQ817711_o;;JQ817711_f;;JQ817711_g;JQ817711_s;;JQ817711
+I89GC4301ANP2Y	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ818015_s;;JQ818015
+I89GC4301A1NLG	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ818110_s;;JQ818110
+I89GC4301AY44T	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;JQ925055_s;;JQ925055
+I89GC4301CXIK0	6	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus;Bacillus cheonanensis;;PFS-5-JQ966280(T)
+I89GC4301DRIWN	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ989510_s;;JQ989510
+I89GC4301AZ3Z1	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ989527_s;;JQ989527
+I89GC4301BTKBN	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ989600_s;;JQ989600
+I89GC4301C0IL7	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;HM243977_o;;DQ811827_f;;DQ811827_g;JQ989805_s;;JQ989805
+I89GC4301BODDF	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;DQ811888_f;;DQ811888_g;JQ989844_s;;JQ989844
+I89GC4301BWRT1	7	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JQ989872_s;;JQ989872
+I89GC4301BV2F3	1	Bacteria;;;Planctomycetes;;Phycisphaerae;;HQ697838_o;;HQ697838_f;;HQ697838_g;JX000957_s;;JX000957
+I89GC4301AY09S	1	Bacteria;;;GN04;;EU385751_c;;EU385751_o;;EU385751_f;;FJ712458_g;JX001005_s;;JX001005
+I89GC4301CN2CU	1	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JX001096_s;;JX001096
+I89GC4301CZCQ7	1	Bacteria;;;Gemmatimonadetes;;GU568020_c;;HQ727642_o;;HQ727642_f;;HQ727642_g;JX001110_s;;JX001110
+I89GC4301B2P6R	2	Bacteria;;;Chloroflexi;;Dehalococcoidetes;;Dehalococcoidales;;GU553783_f;;GU553783_g;JX001112_s;;JX001112
+I89GC4301B7D00	3	Bacteria;;;Chloroflexi;;SAR202_c;;SAR202_o;;AM997775_f;;AM997775_g;JX001161_s;;JX001161
+I89GC4301BZOCX	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Oceanospirillales;;Oceanospirillaceae;;Marinobacterium;JX047076_s;;JX047076
+I89GC4301BXYHV	8	Bacteria;;;Gemmatimonadetes;;GU568020_c;;HQ190281_o;;HQ190281_f;;HQ190281_g;JX193392_s;;JX193392
+I89GC4301AN0KD	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;HQ397467_g;JX193424_s;;JX193424
+I89GC4301A4EK2	1	Bacteria;;;TM6;;TM6_c;;TM6_o;;EU735020_f;;EU735020_g;JX221876_s;;JX221876
+I89GC4301CH8KP	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;FM253572_o;;FM253572_f;;FM253572_g;JX222547_s;;JX222547
+I89GC4301CQ5Z9	1	Bacteria;;;OP11;;DQ404773_c;;DQ404773_o;;DQ404773_f;;DQ404773_g;JX223423_s;;JX223423
+I89GC4301ANCK2	94	Bacteria;;;Bacteroidetes;;Flavobacteria;;Flavobacteriales;;Flavobacteriaceae;;Salegentibacter;JX240567_s;;JX240567
+I89GC4301A4T98	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;EU266881_g;JX240956_s;;JX240956
+I89GC4301BQN6X	2	Bacteria;;;Gemmatimonadetes;;GU568020_c;;HQ727642_o;;HQ727642_f;;HQ727642_g;JX240976_s;;JX240976
+I89GC4301BHUE3	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobulbaceae_o;;EU287221_f;;EU287221_g;JX241034_s;;JX241034
+I89GC4301DPLBG	1	Bacteria;;;OP8;;OP8_c;;OP8_o;;OP8_f;;AQSP_g;JX391294_s;;JX391294
+I89GC4301BMBGE	5	Bacteria;;;WS3;;GU302492_c;;AB530233_o;;AB530233_f;;AB530233_g;JX391644_s;;JX391644
+I89GC4301CTAZ3	2	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;AY214193_o;;AY214193_f;;DQ154855_g;JX391681_s;;JX391681
+I89GC4301B3WGP	1	Bacteria;;;Acidobacteria;;Thermoanaerobaculum_c;;Thermoanaerobaculum_o;;Thermoanaerobaculum_f;;DQ395019_g;JX391686_s;;JX391686
+I89GC4301AYGLE	1	Bacteria;;;Acidobacteria;;EU700145_c;;EU700145_o;;EU700145_f;;EU700145_g;JX391806_s;;JX391806
+I89GC4301DLF00	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;JX504347_s;;JX504347
+I89GC4301C5V7T	1	Bacteria;;;Planctomycetes;;Planctomycetacia;;Planctomycetales;;Planctomycetaceae;;HQ397467_g;JX504459_s;;JX504459
+I89GC4301CM38F	2	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;JX504511_s;;JX504511
+I89GC4301B103K	7	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;AM745150_f;;DQ811856_g;JX648559_s;;JX648559
+I89GC4301DDLDM	1	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Myxococcales;;Sandaracinaceae;;JF344203_g;KC009893_s;;KC009893
+I89GC4301BSGWZ	11	Bacteria;;;Proteobacteria;;Deltaproteobacteria;;Desulfobacterales;;Desulfobacteraceae;;AM229208_g;KC009899_s;;KC009899
+I89GC4301A3DVV	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Steroidobacter_o;;AB013829_f;;AB013829_g;KC009935_s;;KC009935
+I89GC4301CGAI8	1	Bacteria;;;Chloroflexi;;Anaerolineae;;Anaerolinaeles;;FJ455877_f;;FJ455877_g;KC010011_s;;KC010011
+I89GC4301BPKEP	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Shimia;Shimia haliotis;;WM35-KC196071(T)
+I89GC4301BZCHK	1	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Boseongicola;Boseongicola aestuarii;;BS-W15-KF977837(T)
+I89GC4301BO2AR	1	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g26;Bacillus alcalophilus;;DSM 485-X60603(T)
+I89GC4301B7AY9	10	Bacteria;;;Nitrospirae;;Nitrospira_c;;Thermodesulfovibrio_o;;Magnetobacterium_f;;Magnetobacterium;Magnetobacterium bavaricum;;X71838
+I89GC4301AYGJ4	5	Bacteria;;;Firmicutes;;Bacilli;;Bacillales;;Bacillaceae;;Bacillus_g12;Bacillus agaradhaerens;;DSM 8721-X76445(T)
+I89GC4301BCY6X	17	Bacteria;;;Proteobacteria;;Alphaproteobacteria;;Rhodobacterales;;Rhodobacteraceae;;Marinovum;Marinovum algicola;;ATCC 51440-X78315(T)
+I89GC4301BJPHI	1	Bacteria;;;Proteobacteria;;Gammaproteobacteria;;Chromatiales;;Chromatiaceae;;Halochromatium;Halochromatium glycolicum;;BN 3201-X93472(T)
